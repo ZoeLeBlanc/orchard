@@ -1,0 +1,23 @@
+{
+  "name": "orchard",
+  "description": "growing some trees",
+  "main": "index.js",
+  "authors": [
+    "zoe lb <zgleblanc@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "trees"
+  ],
+  "homepage": "https://github.com/ZoeLeBlanc/orchard",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}
